@@ -1,6 +1,7 @@
 ## <div align="center">I'm Rafael Mançan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2009 🚀</div>
-
 <br/>
+<a href="https://wakatime.com/@1a97ea1b-bca9-452c-b619-6b0cf075053c"><img src="https://wakatime.com/badge/user/1a97ea1b-bca9-452c-b619-6b0cf075053c.svg" alt="Total time coded since Nov 6 2017" /></a>
+<br/><br/>
 
 - 🔭 I’m currently working on [NoPing](https://noping.com)
 - 🌱 I’m currently improving my knowledge with PHP 8 and Laravel 9
