@@ -1,7 +1,6 @@
 ## <div align="center">I'm Rafael Mançan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2009 🚀</div>
 <br/>
-<a href="https://wakatime.com/@1a97ea1b-bca9-452c-b619-6b0cf075053c"><img src="https://wakatime.com/badge/user/1a97ea1b-bca9-452c-b619-6b0cf075053c.svg" alt="Total time coded since Nov 6 2017" /></a>
-<br/><br/>
+<br/>
 
 - 🔭 I’m currently working on [NoPing](https://noping.com)
 - 🌱 I’m currently improving my knowledge with PHP 8 and Laravel 9
@@ -62,13 +61,3 @@
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
 </div>
-
-<br/>
-
-## Github Stats
-
-<div align="center" style="display:flex; flex-direction:column; margin-top: 1rem;">
-    <img align="center" style="margin-bottom: 1rem;" src="https://github-readme-stats.vercel.app/api?username=rafamancan&count_private=true&theme=nightowl&show_icons=true"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamancan&theme=nightowl&layout=compact&langs_count=8"> 
-</div>
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
