@@ -9,8 +9,6 @@
 
 <br/>
 
-![rafamancan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafamancan&theme=vue-dark&hide_border=true)
-
 # My Skill Set
 <div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
